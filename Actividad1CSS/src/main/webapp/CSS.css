@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/*menú inicial*/
+.ds{
+	text-align: right;
+}
+.navegacion{
+    background: aqua;
+    font-size:24;
+}
+.azul{
+    color:blue;
+    font-family:verdana;
+}
+.negrita{
+	font-size:20px;
+}
+.rojo{
+	color:red;
+}
+.centro{
+	text-align:center;
+}
+.derecha{
+	text-align:right;
+}
+.plata{
+	background-color:silver;
+	opacity:1;
+}
